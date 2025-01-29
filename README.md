@@ -1,7 +1,3 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
 # Projeto EBOOK Gerado por I.A.s para BOOTCAMP CAIXA
 
 
@@ -10,7 +6,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA . todos os prompts
 seguem abaixo.
 
-<a href="[https://github.com/anapmourao/E-BOOK/blob/main/EBOOK%20IAG%20O%20FUTURO%20DA%20AUDITORIA%20INTERNA.pdf]"> 📕Clique aqui para ler</a>
+[LINK PARA O E-BOOK AQUI](https://github.com/anapmourao/E-BOOK/blob/main/EBOOK%20IAG%20O%20FUTURO%20DA%20AUDITORIA%20INTERNA.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
