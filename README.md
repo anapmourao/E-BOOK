@@ -30,11 +30,6 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de e-book sobre o tema  uso de IA generativa na Auditoria Interna.  O título deve ser curto e chamativo. Para o público contadores com formação em Auditoria.  Me liste 5 títulos.                                                        |
 | conteúdo | Faça um texto para e-book, com foco em Auditoria Interna, considerando o uso da inteligencia artificial generativa nos processos de trabalho.  Atue como um Auditor Sênior especialista em IA.
-{REGRAS}
->Explique sempre de uma maneira simples
->o publico alvo são estudantes de contabilidade.
->Sempre deixe um texto sugestivo por tópico. |
-
 
 Meta IA：
 
