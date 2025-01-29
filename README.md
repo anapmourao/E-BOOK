@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./https://github.com/anapmourao/E-BOOK/capa_livro.jpg"
+    src=".//github.com/anapmourao/E-BOOK/blob/main/capa_livro.JPG)"
     width="400"  
 />
 </p>
