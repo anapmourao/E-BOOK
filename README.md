@@ -1,7 +1,5 @@
 <p align="center">
-<img 
-    src=".//github.com/anapmourao/E-BOOK/blob/main/capa_livro.JPG"
-    width="400"  
+    <img width="100" src=".github/assets/banner.png">
 </p>
 
 # Projeto EBOOK Gerado por I.A.s para BOOTCAMP CAIXA
